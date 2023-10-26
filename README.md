@@ -16,9 +16,9 @@ Declare the main function and set up the device & data size of matrix , perform 
 Execute the program and run the terminal.
 
 ## PROGRAM :
-Developed By : **Akash A**
+Developed By : **KRISHNA PRAKAASH D M**
 </br>
-Register No. : **212221230003**
+Register No. : **212221230052**
 ### With Memset:
 ```cuda
 %%cu
